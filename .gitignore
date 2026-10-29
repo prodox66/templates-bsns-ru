@@ -1,0 +1,8 @@
+# User resources, caches and private host settings are deployed separately.
+/templates/
+/users/
+/runtime/
+*.local.php
+.env*
+.vscode/
+.gigacode_vsc/
